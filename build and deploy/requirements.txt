@@ -1,0 +1,9 @@
+joblib
+flask
+pandas
+streamlit
+requests
+plotly
+xgboost
+shap
+matplotlib 
